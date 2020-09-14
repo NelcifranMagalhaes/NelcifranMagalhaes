@@ -1,6 +1,6 @@
 ### Hi guys!! 👋
 
-I'm a web developer from Brazil 🇧🇷, Fan of 🎮 games.
+I'm a web developer from Brazil 🇧🇷.
 
 
 - 🌱 I’m currently learning some React Native and some Mobile Tecnologies 📱.
