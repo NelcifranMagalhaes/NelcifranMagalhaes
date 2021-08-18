@@ -9,7 +9,7 @@ I'm a web developer from Brazil 🇧🇷.
 
 - 😄 Pronouns: My name is not popular in Brazil, its pronouns is "Neusifrán"
 
-- 🔭 I’m currently working in Brazil company called Conviso.
+- 🔭 I’m currently working in Brazil company called Revelo.
 
 - ⚡ Fun fact: I'm a Fighting Game Fan!! 👊 Shoryuken!!!!!!!! 👊 
 
