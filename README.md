@@ -5,7 +5,7 @@ I'm a web developer from Brazil 🇧🇷.
 
 - 🌱 I’m currently learning some React Native and some Mobile Tecnologies 📱.
 
-- 📖 I am also interested in AI, game development and machine learning.
+- 📖 I am also interested in game development and Algorithm.
 
 - 😄 Pronouns: My name is not popular in Brazil, its pronouns is "Neusifrán"
 
