@@ -3,7 +3,7 @@
 I'm a web developer from Brazil 🇧🇷.
 
 
-- 🌱 I’m currently learning some React Native and some Mobile Tecnologies 📱.
+- 🌱 I’m currently learning some Python 🐍 and your web frameworks.
 
 - 📖 I am also interested in game development and Algorithm.
 
