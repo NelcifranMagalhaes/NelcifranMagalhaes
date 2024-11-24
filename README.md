@@ -12,5 +12,6 @@ I'm a web developer from Brazil 🇧🇷.
 
 <p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/210414?s=48&v=4" alt="python" width="40" height="40"/> </a></p>
 
-[![Gmail Badge](https://img.shields.io/badge/-nelcifranpires@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:nelcifranpires@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-nelcifranpires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/nelcifranpires/](https://www.linkedin.com/in/nelcifranpires/)](https://www.linkedin.com/in/nelcifranpires/))]([https://www.linkedin.com/in/nelcifranpires/](https://www.linkedin.com/in/nelcifranpires/))
+[![Gmail Badge](https://img.shields.io/badge/-nelcifranpires@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nelcifranpires@gmail.com)](mailto:nelcifranpires@gmail.com)
+<a href="https://www.linkedin.com/in/nelcifranpires/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
