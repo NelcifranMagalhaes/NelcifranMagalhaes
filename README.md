@@ -2,7 +2,7 @@
 
 I'm a web developer from Brazil 🇧🇷.
 
-- 📖 I’m currently learning some Python 🐍 and your web frameworks.
+- 📖 I’m currently learning some Python 🐍 and its web frameworks.
 
 - 😄 Pronouns: My name is not popular in Brazil, its pronouns is "Neusifrán"
 
