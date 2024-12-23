@@ -4,8 +4,6 @@ I'm a web developer from Brazil 🇧🇷.
 
 - 📖 I’m currently learning some Python 🐍 and its web frameworks.
 
-- 😄 Pronouns: My name is not popular in Brazil, its pronouns is "Neusifrán"
-
 - ⚡ Fun fact: I'm a Fighting Game Fan!! 👊 Shoryuken!!!!!!!! 👊  <img src="https://github.com/user-attachments/assets/8d7764dd-56c6-457b-93ec-d76d25735e09" alt="Ryu" width="70" height="70"/> 
 
 - 💻 Favorite Languages: Ruby, Python and others clean languages.
