@@ -2,7 +2,9 @@
 
 I'm a web developer from Brazil 🇧🇷.
 
-- 📖 I’m currently learning some Python 🐍 and its web frameworks.
+- 📖 I’m currently learning:
+  - Python 🐍 and it's web frameworks.
+  - Kotlin 🐱
 
 - ⚡ Fun fact: I'm a Fighting Game Fan!! 👊 Shoryuken!!!!!!!! 👊  <img src="https://github.com/user-attachments/assets/8d7764dd-56c6-457b-93ec-d76d25735e09" alt="Ryu" width="70" height="70"/> 
 
