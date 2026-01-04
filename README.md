@@ -2,6 +2,8 @@
 
 I'm a web developer from Brazil 🇧🇷.
 
+[![Portfolio](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://nelcifranmagalhaes.github.io/)
+
 - 📖 I’m currently learning:
   - Python 🐍 and it's web frameworks.
   - Kotlin 🐱
@@ -17,4 +19,5 @@ I'm a web developer from Brazil 🇧🇷.
   &#8287;&#8287;&#8287;&#8287;&#8287;
 ## Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelcifranMagalhaes&show_icons=true&theme=radical&hide=css,scss,c%23)](https://github.com/anuraghazra/github-readme-stats)
+
 
