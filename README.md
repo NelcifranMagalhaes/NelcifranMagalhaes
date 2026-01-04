@@ -16,4 +16,5 @@ I'm a web developer from Brazil 🇧🇷.
 <a href="https://www.linkedin.com/in/nelcifranpires/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 ## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelcifranMagalhaes&theme=radical&hide=css,scss,c%23)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelcifranMagalhaes&show_icons=true&theme=radical&hide=css,scss,c%23)](https://github.com/anuraghazra/github-readme-stats)
+
